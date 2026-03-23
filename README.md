@@ -213,18 +213,6 @@ producto:    mochila
 
 ---
 
-## 📊 Cumplimiento de la rúbrica
-
-| Criterio | Peso | Estado |
-|----------|------|--------|
-| Funcionalidad básica (trigger, LLMs, condicional, notificación) | 40% | ✅ Completo |
-| Calidad del LLM clasificador | 20% | ✅ Completo |
-| Calidad del LLM generador | 15% | ✅ Completo |
-| Documentación y reproducibilidad | 15% | ✅ Completo |
-| Robustez y manejo de errores | 10% | ✅ Completo |
-
----
-
 ## 🔒 Seguridad
 
 - Las credenciales **no se incluyen** en ningún archivo del repositorio
