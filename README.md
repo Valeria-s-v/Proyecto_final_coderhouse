@@ -30,7 +30,7 @@ Cada vez que un cliente deja un comentario en Google Sheets, el workflow:
 
 ## 🗺️ Diagrama del Workflow
 
-![Diagrama del workflow](Workflow_-_Sistema_de_Análisis_de_Feedback.png)
+<img width="1104" height="2033" alt="Workflow - Sistema de Análisis de Feedback" src="https://github.com/user-attachments/assets/6aef52a2-42da-4df8-bc53-7c78537255a6" />
 
 ### Workflow completo en n8n
 ![Captura de workflow](https://github.com/user-attachments/assets/1ad72955-ef99-4f6a-b855-1ea99cb17811) 
