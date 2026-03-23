@@ -7,7 +7,7 @@
 
 ## 📌 Descripción
 
-Sistema de análisis automatizado de feedback de clientes para **UrbanThread**, una tienda de indumentaria online. El workflow procesa comentarios en tiempo real, los clasifica según su nivel de riesgo reputacional mediante inteligencia artificial y genera respuestas e informes accionables **sin intervención humana**.
+Sistema de análisis automatizado de feedback de clientes para **UrbanThread**, una tienda de indumentaria online. El workflow procesa comentarios en tiempo real, los clasifica según su nivel de riesgo con la reputación mediante inteligencia artificial y genera respuestas e informes accionables **sin intervención humana**.
 
 > ⚡ Tiempo de respuesta ante una crisis: **menos de 60 segundos** desde que el cliente escribe su comentario.
 
