@@ -98,15 +98,12 @@ Gmail    Log       Log NPS   Log
 ```
 Proyecto_final_coderhouse/
 │
+├── arcchivo ZIP
 ├── workflow.json                          # Workflow exportado de n8n
-├── Documentacion_Tecnica_UrbanThread.docx # Documentación técnica completa
-├── prompts.txt                            # Prompts de los 3 nodos LLM
+├── Documentacion_Tecnica_UrbanThread.docx # Documentación técnica completa con Prompts de los 3 nodos LLM
 ├── Workflow_-_Sistema_de_Análisis_de_Feedback.png  # Diagrama del flujo
-├── evidencia/                             # Capturas de pruebas
-│   ├── prueba_crisis.png
-│   ├── prueba_negativo.png
-│   ├── prueba_positivo.png
-│   └── prueba_error.png
+├── evidencia/                             # Evidencia
+│   ├── archivo word con link de video
 └── README.md                              # Este archivo
 ```
 
